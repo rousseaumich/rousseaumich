@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @michelRousseau
-- 👀 I’m interested in development of Nodejs, Django, Cryptographie, Odoo, and cybersecurity
-- 🌱 I’m currently learning ... nodejs, Django, and Security of application
-- 💞️ I’m looking to collaborate on ...security application, development of odoo modules, django and djangorest framework,front end
-- 📫 How to reach me ... rousseaum195@gmail.com
-<!---
-rousseaumich/rousseaumich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I'm Michel Rousseau
+
+🚀 Backend Engineer specialized in Odoo customization and scalable API development.
+
+💡 I help businesses optimize their processes through ERP solutions and backend systems.
+
+🔧 Tech Stack:
+- Python (Odoo, Django, FastAPI)
+- Django REST Framework
+- API Design & Integration
+- PostgreSQL
+- ERP Customization
+- Application Security (learning & practicing)
+
+🌱 Currently improving:
+- Advanced API architecture
+- ERP integrations
+- Application security
+- English communication skills
+
+🤝 Open to collaborate on:
+- Odoo module development
+- Backend API projects (Django / FastAPI)
+- ERP integrations
+- Business process automation
+
+📫 Contact: rousseaum195@gmail.com
